@@ -1,13 +1,8 @@
-# Carlos Alexandre :desktop_computer:
+# Strongonoff de frango :chicken:
 
-## Front-end devepoler
+## Ingredientes
 
-- HTML 5
-- CSS3
-- JavaScript
-- ReactJs
-- Angular
-- Vue
-
-
+- Peito de frango desfiado
+- Creme de leite
+- legumes
 
